@@ -1,12 +1,3 @@
-/**
- * Copyright (C) 2014 	北京方正阿帕比技术有限公司	开发一部
- * <p>
- * 后台管理
- * <p>
- * 2014年12月1日
- * <p>
- * liutf
- */
 package com.liutf.mvc.controller;
 
 import com.liutf.mvc.utils.ToJson;

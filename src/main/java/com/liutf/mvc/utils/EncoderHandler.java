@@ -1,11 +1,3 @@
-/**   
- * @title: EncoderHandler.java 
- * @package: com.founder.medical.utils 
- * @description: TODO
- * @author liutf  
- * @date 2015年4月2日 上午11:36:01 
- * @version 1.0.0 
- */
 package com.liutf.mvc.utils;
 
 import java.security.MessageDigest;

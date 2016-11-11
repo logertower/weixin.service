@@ -1,11 +1,3 @@
-/**
- * @title: TokenService.java
- * @package: com.founder.medical.service
- * @description: TODO
- * @author liutf
- * @date 2015年4月2日 上午11:35:24
- * @version 1.0.0
- */
 package com.liutf.mvc.service;
 
 import com.liutf.mvc.entity.CheckModel;

@@ -1,11 +1,3 @@
-/**
- * @title: CheckModel.java
- * @package: com.founder.medical.entity
- * @description: TODO
- * @author liutf
- * @date 2015年4月2日 上午11:36:47
- * @version 1.0.0
- */
 package com.liutf.mvc.entity;
 
 /**
